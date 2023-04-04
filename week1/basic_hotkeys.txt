@@ -1,0 +1,16 @@
+Sure, here are some of the basic text editing hotkeys in Visual Studio Code:
+
+Ctrl+C or Cmd+C: Copy selected text
+Ctrl+X or Cmd+X: Cut selected text
+Ctrl+V or Cmd+V: Paste text
+Ctrl+Z or Cmd+Z: Undo last action
+Ctrl+Shift+Z or Cmd+Shift+Z: Redo last undone action
+Ctrl+A or Cmd+A: Select all text
+Ctrl+F or Cmd+F: Find text in the current file
+Ctrl+H or Cmd+H: Replace text in the current file
+Ctrl+D or Cmd+D: Select the next occurrence of the current selection
+Alt+Up Arrow or Option+Up Arrow to move the line(s) up
+Alt+Down Arrow or Option+Down Arrow to move the line(s) down
+Ctrl+L to markdown the current line
+Ctrl+/ or Cmd+/: Comment/uncomment selected code
+
